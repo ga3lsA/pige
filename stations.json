@@ -1,0 +1,10 @@
+[
+  { "name": "Europe 2", "https://europe2.lmn.fm/europe2-75000/playlist.m3u8": "" },
+  { "name": "Europe 1", "streamUrl": "" },
+  { "name": "RFM", "streamUrl": "" },
+  { "name": "NRJ", "https://streaming.nrjaudio.fm/oufdfatx4thg?origine=playernrj": "" },
+  { "name": "Nostalgie", "streamUrl": "" },
+  { "name": "Chérie FM", "streamUrl": "" },
+  { "name": "Fun Radio", "streamUrl": "" },
+  { "name": "RTL2", "streamUrl": "" }
+]
